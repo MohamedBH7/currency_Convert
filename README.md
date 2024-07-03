@@ -1,0 +1,1 @@
+Android mobile application that allows users to know the actual money currency and convert from one currency to another. Your goal is to design the UI by making sure to integrate all the information of currencies. You can limit your app to these currencies: EURO, US DOLLAR, GB POUND, BAHRAINI DINAR, and SAUDI RYAL.
