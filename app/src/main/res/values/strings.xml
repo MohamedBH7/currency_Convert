@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currencies_array">
+        <item>EURO</item>
+        <item>US DOLLAR</item>
+        <item>GB POUND</item>
+        <item>BAHRAINI DINAR</item>
+        <item>SAUDI RYAL</item>
+    </string-array>
+</resources>
